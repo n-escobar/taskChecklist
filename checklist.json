@@ -438,15 +438,8 @@
   {
     "Name": "CL Signed Packet?",
     "AdditionalInfo": "Check if there is a FU Call Log. If there is, follow SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CL-Signed-Packet-.aspx?csf=1\u0026web=1\u0026e=aXkA5v"
-  },
-  {
-    "Name": "Test11",
-    "AdditionalInfo": "Check if there is a FU Call Log. If there is, follow SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CL-Signed-Packet-.aspx?csf=1\u0026web=1\u0026e=aXkA5v"
-  },
-  {
-    "Name": "Test22",
-    "AdditionalInfo": "Check if there is a FU Call Log. If there is, follow SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CL-Signed-Packet-.aspx?csf=1\u0026web=1\u0026e=aXkA5v"
-  }  
+  }
 ]
+
 
 
