@@ -1,445 +1,418 @@
 [
   {
     "Name": "FP Received?",
-    "AdditionalInfo": "Check if there is a FU Call Log. If there is, follow SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-FP-Received-.aspx?csf=1\u0026web=1\u0026e=hS5Mv2"
+    "AdditionalInfo": "Check if there is a FU Call Log. If there is, follow SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-FP-Received-.aspx?csf=1\u0026web=1\u0026e=fnm8qm"
   },
   {
     "Name": "FP Received",
-    "AdditionalInfo": "Check if there is a FU Call Log. If there is, follow SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-FP-Received-.aspx?csf=1\u0026web=1\u0026e=hS5Mv2"
+    "AdditionalInfo": "Check if there is a FU Call Log. If there is, follow SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-FP-Received-.aspx?csf=1\u0026web=1\u0026e=fnm8qm"
   },
   {
-    "Name": "Notify CL Receipt",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "Name": "Notify CL FP Receipt",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Notify-CL-FP-Receipt.aspx?csf=1\u0026web=1\u0026e=djV4cL"
   },
   {
     "Name": "Contact Client Re: Unusable Fingerprints",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EYwZ7XUSy3NChtQkLjH-46MBLWDt1bCW8_guiWYnaO1Cjg?e=fgKO8m"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Unusable-Fingerprints.aspx?csf=1\u0026web=1\u0026e=dlmE7U"
   },
   {
     "Name": "Contact CL Re: Unusable FP",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EYwZ7XUSy3NChtQkLjH-46MBLWDt1bCW8_guiWYnaO1Cjg?e=fgKO8m"
-  },
-  {
-    "Name": "Upload CL/DEV Signature",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
-  },
-  {
-    "Name": "Upload CL Signature",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
-  },
-  {
-    "Name": "Upload DEV Signature",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
-  },
-  {
-    "Name": "CSC-DER SIG",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspxgOuJnvN3TiQjBw?e=FccWpa"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Unusable-Fingerprints.aspx?csf=1\u0026web=1\u0026e=dlmE7U"
   },
   {
     "Name": "CSC-MISSING SIG",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-MISSING-SIG.aspx?csf=1\u0026web=1\u0026e=kNIWcJ"
   },
   {
     "Name": "Contact Client Re: Prima Facie Determination",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/Eefc6WPyFEJCshLKRsQIyTsB_di9U59oIARCzUhqrxocaA?e=SnKxg7"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Prima-Facie-Determination.aspx?csf=1\u0026web=1\u0026e=90jaPd"
   },
   {
     "Name": "Contact Client Re Prima Facie Determination",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/Eefc6WPyFEJCshLKRsQIyTsB_di9U59oIARCzUhqrxocaA?e=SnKxg8"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Prima-Facie-Determination.aspx?csf=1\u0026web=1\u0026e=90jaPd"
   },
   {
     "Name": "Contact CL Re Prima Facie Determination",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/Eefc6WPyFEJCshLKRsQIyTsB_di9U59oIARCzUhqrxocaA?e=SnKxg9"
-  },
-  {
-    "Name": "Advise Client of Upcoming Biometric Appointment/Notify CL Bio Appt",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EWOlaqtq3fhAtZVsEV5Un9oBkHF0Z1hm9NZ7ox7t3REQQg?e=UmzVXo"
-  },
-  {
-    "Name": "Advise Client of Upcoming Biometric Appointment",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EWOlaqtq3fhAtZVsEV5Un9oBkHF0Z1hm9NZ7ox7t3REQQg?e=UmzVXo"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Prima-Facie-Determination.aspx?csf=1\u0026web=1\u0026e=90jaPd"
   },
   {
     "Name": "Notify CL Bio Appt",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EWOlaqtq3fhAtZVsEV5Un9oBkHF0Z1hm9NZ7ox7t3REQQg?e=UmzVXo"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--NO.aspx?csf=1\u0026web=1\u0026e=5gFO1i"
   },
   {
     "Name": "Remind Bio Appt",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EWOlaqtq3fhAtZVsEV5Un9oBkHF0Z1hm9NZ7ox7t3REQQg?e=UmzVXo"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--NO.aspx?csf=1\u0026web=1\u0026e=5gFO1i"
   },
   {
     "Name": "ESCALATION: Switch DA to AOS",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EW9JlteF4UNEt9ZtYMhGsPsBykQZhTP4zneoNentKOXOag?e=Zjd7KJ"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--ESCALATION--Switch-DA-to-AOS.aspx?csf=1\u0026web=1\u0026e=IX5Aen"
   },
   {
     "Name": "ESCA Switch AOS",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EW9JlteF4UNEt9ZtYMhGsPsBykQZhTP4zneoNentKOXOag?e=Zjd7KJ"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--ESCALATION--Switch-DA-to-AOS.aspx?csf=1\u0026web=1\u0026e=IX5Aen"
   },
   {
     "Name": "ESCA Switch DA",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EW9JlteF4UNEt9ZtYMhGsPsBykQZhTP4zneoNentKOXOag?e=Zjd7KJ"
-  },
-  {
-    "Name": "Contact Client Re: Switch to AOS",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EW9JlteF4UNEt9ZtYMhGsPsBykQZhTP4zneoNentKOXOag?e=Zjd7KJ"
-  },
-  {
-    "Name": "ESCALATION: Switch AOS to DA",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures\u2014Task-Completion-Guide.aspx"
-  },
-  {
-    "Name": "I-192",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures\u2014Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--ESCALATION--Switch-DA-to-AOS.aspx?csf=1\u0026web=1\u0026e=IX5Aen"
   },
   {
     "Name": "VAWA LPR",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures\u2014Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-VAWA-LPR---CSC--LPR-VAWA-UPDATE.aspx?csf=1\u0026web=1\u0026e=c9fNsC"
   },
   {
     "Name": "CSC-VAWA LPR UPDATE",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures\u2014Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-VAWA-LPR---CSC--LPR-VAWA-UPDATE.aspx?csf=1\u0026web=1\u0026e=c9fNsC"
   },
   {
     "Name": "CSC-VAWA LPR",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/ESH8OiJi0zlEotKXhpbWebIBwLQcBZuqNVP0q8OlC27xMA?e=4jzFYO"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-VAWA-LPR---CSC--LPR-VAWA-UPDATE.aspx?csf=1\u0026web=1\u0026e=c9fNsC"
   },
   {
     "Name": "CSC-LPR VAWA UPDATE",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/ESH8OiJi0zlEotKXhpbWebIBwLQcBZuqNVP0q8OlC27xMA?e=4jzFYO"
-  },
-  {
-    "Name": "Check USCIS Received Case",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures\u2014Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-VAWA-LPR---CSC--LPR-VAWA-UPDATE.aspx?csf=1\u0026web=1\u0026e=c9fNsC"
   },
   {
     "Name": "Contact Client Re: VAWA Approval/Medical DA Approval/I-130 Approval/Green Card Approval Notice (s",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures\u2014Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Vawa-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=qS25H0"
   },
   {
     "Name": "Contact Client Re: VAWA Approval",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EZIrwZb2IrdLqyV8k_p-hzgBHo7wqBRs5dL3fH1QLeSrGw?e=61QJIM"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Vawa-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=qS25H1"
   },
   {
     "Name": "Contact Client Re: VAWA Approval Notice",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EZIrwZb2IrdLqyV8k_p-hzgBHo7wqBRs5dL3fH1QLeSrGw?e=61QJIM"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Vawa-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=qS25H2"
   },
   {
     "Name": "Contact Client Re: VAWA Approval Notices",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EZIrwZb2IrdLqyV8k_p-hzgBHo7wqBRs5dL3fH1QLeSrGw?e=61QJIM"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Vawa-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=qS25H3"
   },
   {
     "Name": "Contact CL Re: Vawa Approval",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EZIrwZb2IrdLqyV8k_p-hzgBHo7wqBRs5dL3fH1QLeSrGw?e=61QJIM"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Vawa-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=qS25H4"
   },
   {
     "Name": "Contact CL Re: Vawa Approval Notice",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EZIrwZb2IrdLqyV8k_p-hzgBHo7wqBRs5dL3fH1QLeSrGw?e=61QJIM"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Vawa-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=qS25H5"
   },
   {
     "Name": "Contact CL Re: Vawa Approval Notices",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EZIrwZb2IrdLqyV8k_p-hzgBHo7wqBRs5dL3fH1QLeSrGw?e=61QJIM"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Vawa-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=qS25H6"
   },
   {
-    "Name": "Contact Client Re: Medical DA Approva",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/ESH8OiJi0zlEotKXhpbWebIBwLQcBZuqNVP0q8OlC27xMA?e=4jzFYO"
+    "Name": "Contact Client Re: Medical DA Approval",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice-(Medical-DA).aspx?csf=1\u0026web=1\u0026e=ZcbJ1f"
   },
   {
     "Name": "Contact Client Re: Medical DA Approval Notice",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/ESH8OiJi0zlEotKXhpbWebIBwLQcBZuqNVP0q8OlC27xMA?e=4jzFYO"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice-(Medical-DA).aspx?csf=1\u0026web=1\u0026e=ZcbJ1f"
   },
   {
     "Name": "Contact Client Re: Medical DA Approval Notices",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/ESH8OiJi0zlEotKXhpbWebIBwLQcBZuqNVP0q8OlC27xMA?e=4jzFYO"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice-(Medical-DA).aspx?csf=1\u0026web=1\u0026e=ZcbJ1f"
+  },
+  {
+    "Name": "Contact Client Re Medical DA Approval Notice(s)",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice-(Medical-DA).aspx?csf=1\u0026web=1\u0026e=ZcbJ1f"
+  },
+  {
+    "Name": "Contact CL Re: Approval Notice (Medical DA)",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice-(Medical-DA).aspx?csf=1\u0026web=1\u0026e=ZcbJ1f"
+  },
+  {
+    "Name": "Contact CL Re: Approval Notice(s) (Medical DA)",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice-(Medical-DA).aspx?csf=1\u0026web=1\u0026e=ZcbJ1f"
   },
   {
     "Name": "Contact Client Re: I-130 Approval",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EWhxXL6DiD5Bo7i7jVl8XG4BjYmbFJIUCdH_cSSFA2zq8Q?e=9lFLnT"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s)-(I-130).aspx?csf=1\u0026web=1\u0026e=nyyZg9"
   },
   {
     "Name": "Contact Client Re: I-130 Approval Notice",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EWhxXL6DiD5Bo7i7jVl8XG4BjYmbFJIUCdH_cSSFA2zq8Q?e=9lFLnT"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s)-(I-130).aspx?csf=1\u0026web=1\u0026e=nyyZg10"
   },
   {
     "Name": "Contact Client Re: I-130 Approval Notices",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EWhxXL6DiD5Bo7i7jVl8XG4BjYmbFJIUCdH_cSSFA2zq8Q?e=9lFLnT"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s)-(I-130).aspx?csf=1\u0026web=1\u0026e=nyyZg11"
+  },
+  {
+    "Name": "Contact Client Re: I-130 Approval Notice(s)",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s)-(I-130).aspx?csf=1\u0026web=1\u0026e=nyyZg12"
+  },
+  {
+    "Name": "Contact CL Re: I-130 Approval",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s)-(I-130).aspx?csf=1\u0026web=1\u0026e=nyyZg13"
+  },
+  {
+    "Name": "Contact CL Re: I-130 Approval Notice",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s)-(I-130).aspx?csf=1\u0026web=1\u0026e=nyyZg14"
+  },
+  {
+    "Name": "Contact CL Re: I-130 Approval Notices",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s)-(I-130).aspx?csf=1\u0026web=1\u0026e=nyyZg15"
+  },
+  {
+    "Name": "Contact CL Re: I-130 Approval Notice(s)",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s)-(I-130).aspx?csf=1\u0026web=1\u0026e=nyyZg16"
   },
   {
     "Name": "Contact Client Re: Green Card Approval",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EYkpu0G2M1lIkivEo1kPMgQBjNlOnAlDMctaLof_dvRfxw?e=UHGhpp"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--Contact-CL-Re--Green-Card-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=hZQvoS"
   },
   {
     "Name": "Contact Client Re: Green Card Approval Notice",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EYkpu0G2M1lIkivEo1kPMgQBjNlOnAlDMctaLof_dvRfxw?e=UHGhpp"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--Contact-CL-Re--Green-Card-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=hZQvoS"
   },
   {
     "Name": "Contact Client Re: Green Card Approval Notices",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EYkpu0G2M1lIkivEo1kPMgQBjNlOnAlDMctaLof_dvRfxw?e=UHGhpp"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--Contact-CL-Re--Green-Card-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=hZQvoS"
   },
   {
-    "Name": "Contact Client Re: T-Visa Approval Notice",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "Name": "Contact Client Re: Green Card Approval Notice(s)",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--Contact-CL-Re--Green-Card-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=hZQvoS"
   },
   {
-    "Name": "Contact Client Re: T-Visa Approval Notices",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures\u2014Task-Completion-Guide.aspx"
-  },
-  {
-    "Name": "Contact Client Re: T-Visa Approval",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
-  },
-  {
-    "Name": "Pre-AOS Contact CL Re: T Visa Approval Notice",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EWRBDzYEdU9IvBct_kRhosUB7QDnQ8oT70cLX9vxNCR0bA?e=Zjdjtt"
-  },
-  {
-    "Name": "Pre-AOS Contact CL Re: T-Visa Approval Notice",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EWRBDzYEdU9IvBct_kRhosUB7QDnQ8oT70cLX9vxNCR0bA?e=Zjdjtt"
-  },
-  {
-    "Name": "Contact Client Re: Approval Notice",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EbNLwE38JC1EipvDZvQvFVkBHlIrBDn5g66NJbINtInE0w?e=nWiWQX"
-  },
-  {
-    "Name": "Contact Client Re: Approval Notices",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EbNLwE38JC1EipvDZvQvFVkBHlIrBDn5g66NJbINtInE0w?e=nWiWQX"
-  },
-  {
-    "Name": "Contact CL Re: Approval Notice",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EbNLwE38JC1EipvDZvQvFVkBHlIrBDn5g66NJbINtInE0w?e=nWiWQX"
-  },
-  {
-    "Name": "Contact CL Re: Approval Notices",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EbNLwE38JC1EipvDZvQvFVkBHlIrBDn5g66NJbINtInE0w?e=nWiWQX"
-  },
-  {
-    "Name": "Contact Client Re: EAD/SSC/TP/GC",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures\u2014Task-Completion-Guide.aspx"
-  },
-  {
-    "Name": "Contact Client Re: EAD",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/Eb38aAhFe95LphOrpWwbSB4BDjuVmPijFsmmEImhHLnPKQ?e=kWUtgi"
-  },
-  {
-    "Name": "Contact CL Re: EAD",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/Eb38aAhFe95LphOrpWwbSB4BDjuVmPijFsmmEImhHLnPKQ?e=kWUtgi"
-  },
-  {
-    "Name": "Contact Client Re: SSC",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/ESuRxmWPUwxOsGG6c8DGzooBrs-MrlgmUuNxu3cX10owxw?e=0PnK6u"
-  },
-  {
-    "Name": "Contact Client Re: Social Security Card",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/ESuRxmWPUwxOsGG6c8DGzooBrs-MrlgmUuNxu3cX10owxw?e=0PnK6u"
-  },
-  {
-    "Name": "Contact CL Re: SSC",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/ESuRxmWPUwxOsGG6c8DGzooBrs-MrlgmUuNxu3cX10owxw?e=0PnK6u"
-  },
-  {
-    "Name": "Contact Client Re: TP",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures\u2014Task-Completion-Guide.aspx"
-  },
-  {
-    "Name": "Contact CL Re: TP",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures\u2014Task-Completion-Guide.aspx"
-  },
-  {
-    "Name": "Contact Client Re: GC",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EYkpu0G2M1lIkivEo1kPMgQBjNlOnAlDMctaLof_dvRfxw?e=UHGhpp"
-  },
-  {
-    "Name": "Contact CL Re: GC",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EYkpu0G2M1lIkivEo1kPMgQBjNlOnAlDMctaLof_dvRfxw?e=UHGhpp"
+    "Name": "Contact CL Re: Green Card Approval",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--Contact-CL-Re--Green-Card-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=hZQvoS"
   },
   {
     "Name": "Contact CL Re: Green Card Approval Notice",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EYkpu0G2M1lIkivEo1kPMgQBjNlOnAlDMctaLof_dvRfxw?e=UHGhpp"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--Contact-CL-Re--Green-Card-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=hZQvoS"
   },
   {
     "Name": "Contact CL Re: Green Card Approval Notices",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EYkpu0G2M1lIkivEo1kPMgQBjNlOnAlDMctaLof_dvRfxw?e=UHGhpp"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--Contact-CL-Re--Green-Card-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=hZQvoS"
   },
   {
-    "Name": "Contact Client Re: Green Card",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EQtP3sfUuPRMgw6AGOXoREEBbPWSPdclZWOzaTkxxdF_xg?e=MSRTVK"
+    "Name": "Contact CL Re: Green Card Approval Notice(s)",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--Contact-CL-Re--Green-Card-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=hZQvoS"
   },
   {
-    "Name": "Contact CL Re: Green Card",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EQtP3sfUuPRMgw6AGOXoREEBbPWSPdclZWOzaTkxxdF_xg?e=MSRTVK"
+    "Name": "Pre-AOS Contact CL Re: T Visa Approval Notice",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Pre-AOS-Contact-CL-Re--T-Visa-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=IQ60YZ"
   },
   {
-    "Name": "Courtesy Updates",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures\u2014Task-Completion-Guide.aspx"
+    "Name": "Pre-AOS Contact CL Re: T-Visa Approval Notice",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Pre-AOS-Contact-CL-Re--T-Visa-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=IQ60YZ"
+  },
+  {
+    "Name": "Pre-AOS Contact CL Re: T Visa Approval Notice(s)",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Pre-AOS-Contact-CL-Re--T-Visa-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=IQ60YZ"
+  },
+  {
+    "Name": "Pre-AOS Contact CL Re: T-Visa Approval Notice(s)",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Pre-AOS-Contact-CL-Re--T-Visa-Approval-Notice.aspx?csf=1\u0026web=1\u0026e=IQ60YZ"
+  },
+  {
+    "Name": "Contact Client Re: Approval Notice",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s).aspx?csf=1\u0026web=1\u0026e=zo4zgQ"
+  },
+  {
+    "Name": "Contact Client Re: Approval Notices",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s).aspx?csf=1\u0026web=1\u0026e=zo4zgQ"
+  },
+  {
+    "Name": "Contact Client Re: Approval Notice(s)",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s).aspx?csf=1\u0026web=1\u0026e=zo4zgQ"
+  },
+  {
+    "Name": "Contact CL Re: Approval Notice",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s).aspx?csf=1\u0026web=1\u0026e=zo4zgQ"
+  },
+  {
+    "Name": "Contact CL Re: Approval Notices",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s).aspx?csf=1\u0026web=1\u0026e=zo4zgQ"
+  },
+  {
+    "Name": "Contact CL Re: Approval Notices(s)",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s).aspx?csf=1\u0026web=1\u0026e=zo4zgQ"
+  },
+  {
+    "Name": "Contact Client Re: EAD/SSC/TP/GC",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s).aspx?csf=1\u0026web=1\u0026e=zo4zgQ"
+  },
+  {
+    "Name": "Contact Client Re: EAD",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--EAD.aspx?csf=1\u0026web=1\u0026e=tF19k3"
+  },
+  {
+    "Name": "Contact CL Re: EAD",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--EAD.aspx?csf=1\u0026web=1\u0026e=tF19k4"
+  },
+  {
+    "Name": "Contact CL Re: Approval Notice (EAD)",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s).aspx?csf=1\u0026web=1\u0026e=zo4zgQ"
+  },
+  {
+    "Name": "Contact CL Re: Approval Notice(s) (EAD)",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Contact-CL-Re--Approval-Notice(s).aspx?csf=1\u0026web=1\u0026e=zo4zgQ"
   },
   {
     "Name": "Confirm CL Address - Termination",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures\u2014Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Confirm-CL-Address-Termination.aspx?csf=1\u0026web=1\u0026e=Hrtl0U"
   },
   {
     "Name": "Email Letter to CL with link to FOIA",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Email-Letter-to-CL-with-Link-to-FOIA.aspx?csf=1\u0026web=1\u0026e=WjJ0Ic"
   },
   {
     "Name": "Review Third Party Auth with Client",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Third-Party-Authorization.aspx?csf=1\u0026web=1\u0026e=qD76hZ"
   },
   {
     "Name": "Obtain Signed Third Party Auth Form/Obtain Third Party Auth Form",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Third-Party-Authorization.aspx?csf=1\u0026web=1\u0026e=qD76hZ"
   },
   {
     "Name": "Obtain Signed Third Party Auth Form",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Third-Party-Authorization.aspx?csf=1\u0026web=1\u0026e=qD76hZ"
   },
   {
     "Name": "Obtain Third Party Auth Form",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Third-Party-Authorization.aspx?csf=1\u0026web=1\u0026e=qD76hZ"
   },
   {
     "Name": "CSC-CASE COPY",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
-  },
-  {
-    "Name": "BL-CHANGECARD",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
-  },
-  {
-    "Name": "CSC-CL ARRESTED",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/CSO-SOP---Detained-CL-Referral.aspx?csf=1\u0026web=1\u0026e=e1tNtf"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-CASE-COPY.aspx?csf=1\u0026web=1\u0026e=poapqk"
   },
   {
     "Name": "BL-PAYMENT/BL-EXPENSES",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-BL-PAYMENT.aspx?csf=1\u0026web=1\u0026e=wJAoy5"
   },
   {
     "Name": "BL-PAYMENT",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EZ4KC5-1gDhAuw96GhEDRLcBoAe4FUESMOhiMU9k8eObJA?e=pjT1aH"
-  },
-  {
-    "Name": "BL-EXPENSES",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
-  },
-  {
-    "Name": "BL-PAYMENT (Autopay)",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
-  },
-  {
-    "Name": "BL-PLAN",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-BL-PAYMENT.aspx?csf=1\u0026web=1\u0026e=wJAoy5"
   },
   {
     "Name": "CSC-VERIFY EMAIL",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-VERIFY-EMAIL.aspx?csf=1\u0026web=1\u0026e=mLtnAa"
   },
   {
     "Name": "CSC-VIRTUAL WK",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
-  },
-  {
-    "Name": "BL-RECEIPT",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-VIRTUAL-WK.aspx?csf=1\u0026web=1\u0026e=T4owAY"
   },
   {
     "Name": "FIX, SIG PACKET",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-FIX,-SIG-PACKET.aspx?csf=1\u0026web=1\u0026e=cQu87K"
   },
   {
     "Name": "FIX, SIG PACKET (Remailing)",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-FIX,-SIG-PACKET.aspx?csf=1\u0026web=1\u0026e=cQu87K"
   },
   {
     "Name": "CSC-DEC CHANGES",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP---CSC-DEC-CHANGES.aspx?csf=1\u0026web=1\u0026e=x73GbY"
   },
   {
     "Name": "CSC-MISSING AUTH",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Third-Party-Authorization.aspx?csf=1\u0026web=1\u0026e=AFYTkc"
   },
   {
     "Name": "CSC-TRAVEL",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-TRAVEL.aspx?csf=1\u0026web=1\u0026e=Ox0Cwa"
   },
   {
     "Name": "CSC-APPT",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--Schedule-Calendly-Appointment.aspx?csf=1\u0026web=1\u0026e=IE8ccA"
   },
   {
     "Name": "Call Client To Hold On Wet Sig",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--Call-CL-to-Hold-on-Wet-Sig.aspx?csf=1\u0026web=1\u0026e=Xm1tqc"
   },
   {
     "Name": "Rejection, Call CL",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--REJECTION,-Cal.aspx?csf=1\u0026web=1\u0026e=g29Fd9"
+  },
+  {
+    "Name": "Rej Ph 1 Call CL",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--REJECTION,-Cal.aspx?csf=1\u0026web=1\u0026e=g29Fd9"
   },
   {
     "Name": "CSC-IC Response",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-IC-RESPONSE.aspx?csf=1\u0026web=1\u0026e=kCE2Ux"
+  },
+  {
+    "Name": "ESCA IC REQUEST",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-IC-RESPONSE.aspx?csf=1\u0026web=1\u0026e=kCE2Ux"
+  },
+  {
+    "Name": "CSC-Notify CL BFD",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-NOTIFY-CL-BFD-(T-VISA).aspx?csf=1\u0026web=1\u0026e=IxZ2uD"
+  },
+  {
+    "Name": "CSC-Notify CL BFD (T VISA)",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-NOTIFY-CL-BFD-(T-VISA).aspx?csf=1\u0026web=1\u0026e=IxZ2uD"
   },
   {
     "Name": "CSC - Notify CL BFD",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-NOTIFY-CL-BFD-(T-VISA).aspx?csf=1\u0026web=1\u0026e=IxZ2uD"
   },
   {
-    "Name": "CSC \u2013 Notify CL BFD (U-VISA Cases)",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "Name": "CSC - Notify CL BFD (T VISA)",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-NOTIFY-CL-BFD-(T-VISA).aspx?csf=1\u0026web=1\u0026e=IxZ2uD"
   },
   {
     "Name": "EAD RNWL Notify CL of Submission\u00A0/ Notify CL of EAD Submission",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--Notify-CL-of-EAD-Submission---EAD-RNWL-Notify-CL-of-Submission.aspx?csf=1\u0026web=1\u0026e=oXakLf"
   },
   {
     "Name": "EAD RNWL Notify CL of Submission",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--Notify-CL-of-EAD-Submission---EAD-RNWL-Notify-CL-of-Submission.aspx?csf=1\u0026web=1\u0026e=oXakLf"
   },
   {
     "Name": "Notify CL of EAD Submission",
-    "AdditionalInfo": "Search for the task at: https://lisinskifirmcom.sharepoint.com/sites/LisinskiBeyondBorders/SitePages/Standard-Operating-Procedures--Task-Completion-Guide.aspx"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP--Notify-CL-of-EAD-Submission---EAD-RNWL-Notify-CL-of-Submission.aspx?csf=1\u0026web=1\u0026e=oXakLf"
   },
   {
     "Name": "CSC-Atty Request",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/Ec-pwxz6sjFIhWjgyXkjW8oBvhaJ8vncbXayi3jomEaSuw?e=KNERIa"
-  },
-  {
-    "Name": "CSC-OBTAIN INFO",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EWqjJIOVVkpGsK-YTIYGcPwBApBdDjfpJn0ovtuarS8EAg?e=hj1tIr"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-Atty-Request.aspx?csf=1\u0026web=1\u0026e=pxjDWe"
   },
   {
     "Name": "CSC- Atty Request",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/Ec-pwxz6sjFIhWjgyXkjW8oBvhaJ8vncbXayi3jomEaSuw?e=KNERIa"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-Atty-Request.aspx?csf=1\u0026web=1\u0026e=pxjDWe"
   },
   {
     "Name": "CSC - Atty Request",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/Ec-pwxz6sjFIhWjgyXkjW8oBvhaJ8vncbXayi3jomEaSuw?e=KNERIa"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-Atty-Request.aspx?csf=1\u0026web=1\u0026e=pxjDWe"
   },
   {
     "Name": "CSC -Atty Request",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/Ec-pwxz6sjFIhWjgyXkjW8oBvhaJ8vncbXayi3jomEaSuw?e=KNERIa"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-Atty-Request.aspx?csf=1\u0026web=1\u0026e=pxjDWe"
+  },
+  {
+    "Name": "CSC-Atty Legal Response",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-ATTY-LEGAL.aspx?csf=1\u0026web=1\u0026e=e4HSV6"
+  },
+  {
+    "Name": "CSC-OBTAIN INFO",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-OBTAIN-INFO-(MANUAL-TASK).aspx?csf=1\u0026web=1\u0026e=HR8Uwe"
   },
   {
     "Name": "CL Representation Letter",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:w:/s/ClientServicesDepartment/EWyAutNlkwVFtf7YzprWMMABRtp4sekZW7QYfGrP4BOhng?e=6MHi2F"
-  },
-  {
-    "Name": "CSC\u2013CL ARRESTED",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom-my.sharepoint.com/:w:/g/personal/dabompart_lisinskifirm_com/EVsKlb52kPFIrC5BNYc7ChgBfQb1azjoklcnEVoXjs7ydQ?e=HfZsRI"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CL-Representation-Letter.aspx?csf=1\u0026web=1\u0026e=9bjkG2"
   },
   {
     "Name": "Third Party Authorization",
-    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Third-Party-Authorization.aspx?csf=1\u0026web=1\u0026e=7mhfYn"
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Third-Party-Authorization.aspx?csf=1\u0026web=1\u0026e=2MJKWR"
   },
   {
     "Name": "Sig Packet Received?",
-    "AdditionalInfo": "Check if there is a FU Call Log. If there is, follow SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Sig-Packet-Received-.aspx?csf=1\u0026web=1\u0026e=Wjeuh8"
+    "AdditionalInfo": "Check if there is a FU Call Log. If there is, follow SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-Sig-Packet-Received-.aspx?csf=1\u0026web=1\u0026e=blBazr"
   },
   {
     "Name": "I-693 Received?",
-    "AdditionalInfo": "Check if there is a FU Call Log. If there is, follow SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-I-693-Received-.aspx?csf=1\u0026web=1\u0026e=RUblxW"
+    "AdditionalInfo": "Check if there is a FU Call Log. If there is, follow SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-I-693-Received-.aspx?csf=1\u0026web=1\u0026e=ZEaEcm"
   },
   {
     "Name": "CL Signed Packet?",
-    "AdditionalInfo": "Check if there is a FU Call Log. If there is, follow SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CL-Signed-Packet-.aspx?csf=1\u0026web=1\u0026e=aXkA5v"
+    "AdditionalInfo": "Check if there is a FU Call Log. If there is, follow SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CL-Signed-Packet-.aspx?csf=1\u0026web=1\u0026e=DZUHJZ"
+  },
+  {
+    "Name": "CSC-FOIA Release",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-FOIA-Release.aspx?csf=1\u0026web=1\u0026e=mRGesZ"
+  },
+  {
+    "Name": "FOIA release",
+    "AdditionalInfo": "Check SOP: https://lisinskifirmcom.sharepoint.com/:u:/r/sites/LisinskiBeyondBorders/SitePages/SOP-CSC-FOIA-Release.aspx?csf=1\u0026web=1\u0026e=mRGesZ"
   }
 ]
-
-
-
